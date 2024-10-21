@@ -73,7 +73,7 @@ To safeguard any further development, and with a view to the interests of all us
 BOMOS consists of:
 * BOMOS Part 1: The Foundation (this document)
 * BOMOS Part 2: [The Substantiation](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/en/)
-* BOMOS Supplementary modules: [Linked Data](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/) en [Stelsels](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/)
+* BOMOS Supplementary modules: [Linked Data](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/) and [Trust Frameworks](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/)
 
 The heart of BOMOS is the ‘Foundation’. This consists of a basic description of the Management and Development Model and a further elaboration based on literature and experiences gained in practice.  In essence, the Management and Development Model is an activity diagram which also offers a definition of the roles relevant in the process of managing and developing standards. 
 
