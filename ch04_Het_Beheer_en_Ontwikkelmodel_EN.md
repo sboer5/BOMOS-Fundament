@@ -94,11 +94,11 @@ Communication | Distributor | Functional manager, technical manager, experts
 
 ## How to use BOMOS as a tool for the management organisation
 
-[Eerder hebben we beschreven in welke situaties BOMOS te gebruiken is](#bomos-gebruiken), here we make the step to _how_ BOMOS can be used. This cannot be easily and uniformly defined, as it is determined by the context of the user. That context itself can be determined by mapping out the situational characteristics. One key situational characteristic is the position of the standard in the standard lifecycle.
+[Previously, we have described in which situations BOMOS can be used](#bomos-gebruiken_EN), here we make the step to _how_ BOMOS can be used. This cannot be easily and uniformly defined, as it is determined by the context of the user. That context itself can be determined by mapping out the situational characteristics. One key situational characteristic is the position of the standard in the standard lifecycle.
 
 The current life phase of a standard clearly impacts on the structure of the management. A standard still in the development phase imposes different requirements on management than a standard that has been broadly adopted and implemented. A sensible rule of thumb is to carry out a check (on the basis of the Management and Development Model) at each transition point, to determine whether your management structure is still compliant. Below is a description of the phases of the standard lifecycle, to enable you to determine the current phase of your standard.
 
-![Levensfases van een standaard. Een peil gaat van creatie, via introductie en volwassen naar uitfaseren. Een lus gaat van introductie en implementatie naar volwassen en weer terug](images/BOMOS-17_Adoptie-Tijd-blanco.png "Levensfases van een standaard")
+![Life cycle of a standard. An arrow goes from creation, through introduction and maturity, to phase-out. A loop goes from introduction and implementation to full use and back again](images/BOMOS-17_Adoptie-Tijd-blanco_EN.png "Life cycle of a standard")
 
 **1. Creation / development**
 
@@ -118,7 +118,7 @@ During this phase, users deliberately opt to implement the standard. The managem
 
 Organic adoption refers to a situation in which various (individual) parties decide to apply a standard. This phase will be hallmarked by numerous changes. The management structure becomes more important, as is adoption of the standard by the early adopters. All activities should be focused on these aspects. 
 
-**4. Full application / maturity of the standard**
+**4. Full use / maturity of the standard**
 
 In this phase, the standard is generally accepted and implemented. Management in this phase is focused entirely on safeguarding the stability and quality of the standard. 
 
