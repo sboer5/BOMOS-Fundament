@@ -85,8 +85,8 @@ Together Part 1 and Part 2 form the basis for BOMOS.
 When we talk about BOMOS, what we are actually referring to is the basis as described in Part 1 and [Part 2](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/en/). Although the supplementary modules are clearly linked to BOMOS, they have their own governance, which can result in their being given their own name, their own target group, their own management system, etc. The [BOMOS management process](#the-management-and-development-model-design-for-development-and-management) also describes the requirements that are imposed before something can be added as a BOMOS supplementary module. 
 
  The first two supplementary modules are:
--	[Linked Data & Ontologieën](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/): the specific use of Linked Data for sematic standards.
--	Structure for [BOMOS for the management of trust framework](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/): the use of BOMOS in the specific situation governing trust frameworks.
+-	[Linked Data & Ontologies](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/): the specific use of Linked Data for sematic standards.
+-	Structure for [BOMOS for the Management of Trust Frameworks](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/): the use of BOMOS in the specific situation governing trust frameworks.
 
 ## Reading guide 
 If from your policy making or administrative role you are only interested in the primary level, the foundation (part 1) will offer sufficient background and context. If however you are personally active in standardisation communities, you can seamlessly continue with reading part 2: The substantiation with best practices, which includes more background and practical tips for standardisation. 
