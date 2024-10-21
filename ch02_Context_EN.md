@@ -64,7 +64,7 @@ There are many different opinions about the definition of an open standard. Abov
 3. The intellectual property - in respect of any patents present - to (parts of) the standard is provided irrevocably on a royalty-free basis;
 4. There are no restrictions regarding the reuse of the standard.
 
-**Semantic interoperability**
+**Semantic interoperability**   
 Means that the collaborating parties allocate the same meaning to the data exchange.
 
 **Semantic standards**  
@@ -78,10 +78,8 @@ For more information about interoperability and standards:
 Open Standard:  
 https://forumstandaardisatie.nl/open-standaarden
 
-Standardisation Handbook:
-
-https://en.wikipedia.org/wiki/Open_standard
-
+Standardisation Handbook:  
+https://en.wikipedia.org/wiki/Open_standard  
 https://open-stand.org/
 
 European Interoperability Framework:  
