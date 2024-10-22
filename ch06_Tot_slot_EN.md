@@ -8,10 +8,10 @@ The aim is and remains a sustainable standard that contributes to interoperabili
 
 To conclude part 1, we offer three concrete tips:
 
-1. Describe the fulfilment of the package of tasks on the basis of the BOMOS activity model. (BOMOS Compliant)
+1. Describe the fulfilment of the work package of tasks on the basis of the BOMOS activity model. (BOMOS Compliant)
 2. Create continuity in the development and management of a standard by:
-   1. Ensuring a stable/structural financing model.
-   2. Entrusting the core tasks to a structural not-for-profit organisation.
-3. View openness as a means of raising quality and simplifying adoption: use the 10 points from  Krechmer](https://logius-standaarden.github.io/BOMOS-Verdieping/index.html#krechmer-s-open-standaarden-model-10-requirements) for identifying improvements in openness.
+   * Ensuring a stable/structural financing model;
+   * Entrusting the core tasks to a structural not-for-profit organisation.
+3. View openness as a means of raising quality and simplifying adoption: use the 10 points from  Krechmer](https://logius-standaarden.github.io/BOMOS-Verdieping/en/index.html#krechmer-s-open-standaarden-model-10-requirements) for identifying improvements in openness.
 
-Just like a standard, BOMOS itself will never be finished; based on new experiences, new ideas can emerge. And there are plenty of other possible opinions on the subject. At the same time, this document could raise questions when you start to use it. We hope to establish an active BOMOS community that will play a role in this process and will ensure that new BOMOS Supplementary Modules are made available.
+Just like a standard, BOMOS itself will never be finished; based on new experiences, new ideas and practices can emerge. And there are plenty of other possible opinions on the subject. At the same time, this document could raise questions when you start to use it. We hope to establish an active BOMOS community that will play a role in this process and will ensure that new BOMOS Supplementary Modules are made available.
